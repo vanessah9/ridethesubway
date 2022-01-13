@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vanessah9/ridethesubway/static/css/main.bf63334c.css",
+    "main.js": "/vanessah9/ridethesubway/static/js/main.ad7e2f5b.js",
+    "static/js/787.312aeed3.chunk.js": "/vanessah9/ridethesubway/static/js/787.312aeed3.chunk.js",
+    "static/media/subway.m4a": "/vanessah9/ridethesubway/static/media/subway.12ba412c29dc5d74bc64.m4a",
+    "static/media/music.mp3": "/vanessah9/ridethesubway/static/media/music.038d91154c0f6deabf94.mp3",
+    "static/media/announcer.mp3": "/vanessah9/ridethesubway/static/media/announcer.d17816978789266ea71b.mp3",
+    "static/media/subway.jpg": "/vanessah9/ridethesubway/static/media/subway.93fa956239083b6e662a.jpg",
+    "index.html": "/vanessah9/ridethesubway/index.html",
+    "static/media/sound-high-icon.svg": "/vanessah9/ridethesubway/static/media/sound-high-icon.57d58509d9ee052673719106fcef1a85.svg",
+    "static/media/sound-off-icon.svg": "/vanessah9/ridethesubway/static/media/sound-off-icon.1d486b60a6dd4deb5fcae5d4f67e06df.svg",
+    "static/media/info.svg": "/vanessah9/ridethesubway/static/media/info.b99a476ac3ed65880280af857210b900.svg",
+    "main.bf63334c.css.map": "/vanessah9/ridethesubway/static/css/main.bf63334c.css.map",
+    "main.ad7e2f5b.js.map": "/vanessah9/ridethesubway/static/js/main.ad7e2f5b.js.map",
+    "787.312aeed3.chunk.js.map": "/vanessah9/ridethesubway/static/js/787.312aeed3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf63334c.css",
+    "static/js/main.ad7e2f5b.js"
+  ]
+}

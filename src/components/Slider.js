@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactPlayer from 'react-player'
 import '../style/Home.css';
 import Slider from '@mui/material/Slider';
 

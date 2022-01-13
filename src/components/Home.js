@@ -9,9 +9,6 @@ import music from '../assets/music.mp3';
 import subway from '../assets/subway.jpg';
 import '../style/Home.css';
 
-// https://www.youtube.com/watch?v=r1_Ep-vp24I
-// https://www.youtube.com/watch?v=CsvqBYrlNF4
-
 function Home() {
   const [show, setShow] = useState(false);
 

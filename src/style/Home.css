@@ -35,25 +35,27 @@
     padding-top: 0;
     color: black;
 }
+
 .info-text a:visited {
     color: black;
 }
+
 .info-icon {
     width: 25px;
     margin-left: 10px;
 }
+
 .info-icon:hover{
     cursor: pointer;
 }
+
 .sound-icon {
-    /* float: right; */
     width: 30px;
     display: inline-block;
     float: right;
 }
 
 #subway-img {
-    /* width: 600px; */
     width: 30vw;
     margin: 50px;
 }

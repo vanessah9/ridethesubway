@@ -1,6 +1,6 @@
 # ridethesubway
 
-Everyone sure misses commuting! **ridethesubway** is a fun, quick project that creates an artificial subway ride ambience. 
+Everyone sure misses commuting! **ridethesubway** is a fun, quick project that creates an artificial subway ride ambience. Take out your book or headphones and come along for a TTC ride on Line 1.
 
 <p align="center">
   <img width="400" height="400" src="src/assets/subway.jpg">
